@@ -1,4 +1,4 @@
-'# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -159,3 +159,8 @@ cython_debug/
 *.dll
 *.swp
 .paas-unit-*
+
+# Clacky-specific files
+.1024*
+!.1024
+.breakpoints
